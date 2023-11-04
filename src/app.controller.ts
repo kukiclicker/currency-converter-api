@@ -9,7 +9,7 @@ export class AppController {
 
   @Get()
   async getExchangeRates(){
-   
+   return "Hello kukz!";
   }
   @Post()
   async convert(@Body('amount') amount:number,
