@@ -26,7 +26,7 @@ This is a simple NestJS-based API for currency conversion using the Open Exchang
 
 ## API link
 
-https://currency-converter-api-two.vercel.app/
+https://currency-converter-e2g4zwyah-uros-projects-1ce427ee.vercel.app/
 
 ## Contact
 
