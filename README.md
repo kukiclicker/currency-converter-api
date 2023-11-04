@@ -85,7 +85,7 @@ In Nest.js, data retrieval is executed using the "axios" module and the "get()" 
   ```
 
 * Calling get method:
-  ```nestjs
+  ```typescript
   const response = await axios.get(this.apiUrl, {
         params: {
           app_id: this.apiKey,
