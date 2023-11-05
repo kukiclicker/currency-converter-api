@@ -19,14 +19,14 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"amount\":100,\r\n    \"amount-currency\":\"EUR\",\r\n    \"target-currency\":\"RSD\"\r\n}",
+					"raw": "{\r\n    \"amount\":100,\r\n    \"amount-currency\":\"AUD\",\r\n    \"target-currency\":\"RSD\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
 						}
 					}
 				},
-				"url": "https://currency-converter-api-703be419a22e.herokuapp.com"
+				"url": "https://currency-converter-e2g4zwyah-uros-projects-1ce427ee.vercel.app/"
 			},
 			"response": []
 		}
